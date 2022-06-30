@@ -12,7 +12,7 @@ Downloading or installing is very simple, here is how depending on your version 
 Make sure your system supports .NET Framework 4.7.2 or later. [Get the runtime here.](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
 ## Windows
-1. Navigate to the most recent release and download `MachineSK.exe`.
+1. Navigate to the most recent [release](https://github.com/survivalq/MachineSK/releases/tag/Release) and download `MachineSK.exe`.
 2. Now just run it and start creating!
 
 # Program UI

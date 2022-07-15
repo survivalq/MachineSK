@@ -1,5 +1,5 @@
 ![This is an image](https://media.discordapp.net/attachments/895333413060493342/992005075646042232/machineSK_title.png)
-> Created by Survival#5652, want to help? Just DM me.
+> Life is too short to write in skript.
 
 # Introduction
 MachineSK is a GUI based skripting tool, which automates most of the necessary code. 
